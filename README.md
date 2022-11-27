@@ -12,7 +12,9 @@ If you wish to just follow along what I am showcasing in the workshop, feel free
 On the other hand, if you are curious and want to try to run the code and make some changes yourself, the easiest way is using google drive, so you don't have to manage any dependencies:
 
 - Access the google drive folder for this repository: https://drive.google.com/drive/folders/11liyCB5HmTQ81KCIVnKzWNlYIM6y026o?usp=sharing
-- Open the notebook. You will notice you can't edit, as you only have viewing permissions. Click on `File` and select `Save a copy in drive`. Then allow to open the copied file in a new tab.
+- Open the notebook. You will notice you can edit it, but can't save any changes, as you only have viewing permissions. To change the file and access your changes, you need to create your own copy, according to the following steps:
+- Click on `File` and select `Save a copy in drive`.
+- Wait for the file to be copied, then click `Open in new tab`.
 - Start coding!
 
 If you'd rather work on your local machine, then clone this repository, but make sure your Python environment has all the necessary dependencies installed.
